@@ -1,3 +1,3 @@
 # Java
 
-Adding any Java programs I make in this repository
+Adding old Java tutorials I went through in this repository
